@@ -54,7 +54,7 @@
 					can by women, and vice versa. For many women, Heathcliff is a romantic hero; for
 					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
 					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
-					women, he is an immature and tiresome wife-beater. Paradise Lost reads
+					women, he is an immature and tiresome wife-beater. <title key="Milton, John, 1608-1674. | Paradise lost" ref="http://viaf.org/viaf/314808661" ana="webannotation:http://temp.lincsproject.ca/mWZ4SP1BYI2">Paradise Lost</title> reads
 					differently <!--<pb n="3"/>--> when viewed by the daughters of Eve, and with Milton's
 					browbeaten secretarial daughters in mind; and so on down through the canon. </p>
 				<p> Such gender-polarized analyses can reach beyond subject-matter and point of
@@ -415,6 +415,95 @@
         "type": "crm:E21_Person",
         "label": "Gordimer, Nadine, 1923-2014.",
         "description": "Gordimer, Nadine"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mWZ4SP1BYI2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mWZ4SP1BYI2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:44:26.701Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BxsPSL4idMm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BxsPSL4idMm/selector/textPosition/58izpbkcX06",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1503,
+                "end": 1516,
+                "refinedBy": {
+                    "id": "/target/BxsPSL4idMm/selector/textQuote/AIQ8w0UoqSF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paradise Lost",
+                    "prefix": "",
+                    "suffix": "reads\n\t\t\t\t\tdifferently <!----> when viewed by the daughters of Eve, and with Milton's\n\t\t\t\t\tbrowbeaten secretarial daughters in mind; and so on down through the canon"
+                }
+            },
+            {
+                "id": "/target/BxsPSL4idMm/selector/css/ByuJHBty94v",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mWZ4SP1BYI2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/314808661",
+        "type": "frbroo:F1",
+        "label": "Milton, John, 1608-1674. | Paradise lost",
+        "description": "Milton, John | Izgubljeni raj"
     },
     "P2_has_type": [
         "oa:identifying"
