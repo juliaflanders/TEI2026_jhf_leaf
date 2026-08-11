@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/23-refine-leaf-css/CSS/leaf.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Introduction: Women Writers at Work: The Paris Review Interviews</title>
+				<author>Margaret Atwood</author>				
+			</titleStmt>
+			<publicationStmt>
+				<distributor>LInked Editing Academic Framework</distributor>				
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Women Writers at Work: The Paris Review Interviews.</title> 
+					<note>The interviews in this collection are selected from Writers at work, series 1-8, published by Viking Penguin Inc.</note>
+				<publisher>George Plimpton</publisher>
+				<distributor>Penguin Books US</distributor>
+				<date type="release">1989</date>
+				<availability>
+					<p>Free eBook from the Internet Archive</p>
+				</availability>
+				<ptr target="https://archive.org/details/womenwritersatwo00geor"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This encoded file was created by members of the Linked Editing Academic Framework
+					(LEAF) team and made available for a LEAF / LEAF-Writer workshop. This file is not
+					meant for use or publication outside of the workshop environment.</p>
+			</projectDesc>
+		</encodingDesc>		
+	</teiHeader>
+	<text>
+		<body>
+			<div type="essay">
+				<!--<pb n="1"/>
+				<pb n="2"/>-->
+				<head>Introduction</head>
+				<p> This new volume of the Paris Review’s highly praised and praiseworthy series of
+					interviews with writers is a departure from the norm. Previous collections have
+					mixed the genders; this one is unisexual. That the editors have chosen to bring
+					together, within the same covers, fifteen writers as diverse as <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/GpcB7TjEXbr">Dorothy Parker</persName>
+					and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/KAP3J1eP6Zg">Nadine Gordimer</persName>, <persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/UQ2FTgufWdb">Marianne Moore</persName> and <persName key="Rebecca West" ref="http://www.wikidata.org/entity/Q236669" ana="webannotation:http://temp.lincsproject.ca/ZyFR1a83AcC">Rebecca West</persName>, Isak Dinesen and Lillian
+					Hellman, Mary McCarthy and <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/32IRDjLnSIX">Katherine Anne Porter</persName>, over what, in some cases,
+					would doubtless be their dead bodies, merely because they share a double-X
+					chromosome, is not due to a sudden mental aberration. Rather it has been the
+					result of readers' requests. Why not a gathering of women writers? the editors
+					were asked. Well, why not? Which is not quite the same thing as why. </p>
+				<p> To some the answer would seem self-evident: women writers belong together
+					because they are different from men, and the writing they do is different as
+					well and cannot be read with the same eyeglasses as those used for the reading
+					of male writers. Nor can writing by women be read in the same way by men as it
+					can by women, and vice versa. For many women, <persName key="Heathcliff" ref="http://www.wikidata.org/entity/Q2499865" ana="webannotation:http://temp.lincsproject.ca/jqMlJVrM8UD">Heathcliff</persName> is a romantic hero; for
+					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
+					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
+					women, he is an immature and tiresome wife-beater. <title key="Milton, John, 1608-1674. | Paradise lost" ref="http://viaf.org/viaf/314808661" ana="webannotation:http://temp.lincsproject.ca/mWZ4SP1BYI2">Paradise Lost</title> reads
+					differently <!--<pb n="3"/>--> when viewed by the daughters of Eve, and with <persName key="Milton, John, 1608-1674." ref="http://viaf.org/viaf/17226855" ana="webannotation:http://temp.lincsproject.ca/dfEmvwYb4Xl">Milton</persName>'s
+					browbeaten secretarial daughters in mind; and so on down through the canon. </p>
+				<p> Such gender-polarized analyses can reach beyond subject-matter and point of
+					view to encompass matters of structure and style: are women really more
+					subjective? do their novels really end with questions? Especially in this age of
+					semiotics, gender-linked analysis may seek to explore attitudes towards
+					language itself. Is there a distinct female écriture? Does the mother-tongue
+					really belong to mothers, or is it yet one more male-shaped institution bent,
+					like foot-binding, on the deformation and hobbling of women? I have had it
+					suggested to me, in all seriousness, that women ought not to write at all, since
+					to do so is to dip one's hand, like Shakespeares dyer, into a medium both
+					sullied and sullying. (This suggestion was not made telepathically, but in
+					spoken sentences; since, for polemicists as for writers themselves, the
+					alternative to language is silence.) </p>
+				<p> I was recently on a panel—that polygonal form of discourse so beloved of the
+					democratic twentieth century—consisting entirely of women, including Jan Morris,
+					who used to be James Morris, and Nayantara Sahgal of India. From the audience
+					came the question, "How do you feel about being on a panel of women?" We all
+					prevaricated. Some of us protested that we had been on lots of panels that
+					included men; others said that most panels were male, with a woman dotted here
+					and there for decorative effect, like parsley. Jan Morris said that she was in
+					the process of transcending gender and was aiming at becoming a horse, to which
+					Nayantara Sahgal replied that she hoped it was an English horse, since in some
+					other, poorer countries, horses were not treated very well. Which underlined,
+					for all of us, that there are categories other than male and female worth
+					considering. </p>
+				<p> I suppose we all should have said. "Why not?" Still, I was intrigued by our
+					collective uneasiness. No woman writer wants to be overlooked and undervalued
+					for being a woman, but few, it seems, wish to be defined solely by gender, or
+					constrained by loyalties to it alone—an attitude which may puzzle, hurt or
+					enrage those whose political priorities cause them to view writing as a <!--<pb
+						n="4"/>--> tool, a means towards an end, rather than as a Muse who will desert
+					you if you break trust. In the interview which begins this collection. Dorothy
+					Parker articles the dilemma: </p>
+				<p> I'm a feminist, and God knows I'm loyal to my sex, and you must remember that
+					from my very early days, when this city was scarcely safe from buffaloes, I was
+					in the struggle for equal rights for women. But when we paraded through the
+					catcalls of men and when we chained ourselves to lamp posts to try to get out
+					equality—dear child, we didn't foresee those female writers. (pp. 114-115) </p>
+				<p> Male writers may suffer grains on their single-minded dedication to their art
+					for reasons of class or race or nationality, but so far no male writer is likely
+					to be asked to sit on a panel addressing itself to the special problems of the
+					male writer, or be expected to support another writer simply because he happens
+					to be a man. Such things are asked of women writers all the time, and it makes
+					them jumpy. </p>
+				<p> Virginia Woolf may have been right about the androgynous nature of the artist,
+					but she was right also about the differences in social situation these
+					androgynous artists are certain to encounter. We may agree with Nadine Gordimer
+					when she says, "By and large, I don't think it matters a damn what sex a writer
+					is, so long as the work is that of a real writer" (p. 260), if what she means is
+					that it shouldn't matter, in any true assesment of talent of accomplishment, but
+					unfortunately it often has mattered, to other people. When Joyce Carol Oates is
+					asked the "woman" question. phrased in her case as "What are the advantages of
+					being a woman writer?", she makes a virtue of necessity: </p>
+				<p> Advantages! Too many to enumerate, probably. Since, being a woman. I can't be
+					taken altogether seriously by the sort of male critics who rank writers 1, 2. 3
+					in the public press. I am free, I suppose, to do as I like. (P. 382) </p>
+				<!--<pb n="5"/>-->
+				<p> Joan Didion is asked the same question in its negative form— "disadvantages"
+					instead of "advantages"—and also focuses on social differences, social
+					acceptance and role: </p>
+				<p> When I was starting to write—in the late fifties, early sixties—there was a kind
+					of social tradition in which male novelists could operate. Hard drinkers, bad
+					livers. Wives, wars, big fish, Africa, Paris, no second acts. A man who wrote
+					novels had a role in the world, and he could play that role and do whatever he
+					wanted behind it. A woman who wrote novels had no particular role. Women who
+					wrote novels were quite often perceived as invalids. Carson McCullers, Jane
+					Bowles. Flannery O'Connor of course. Novels by women tended to be described,
+					even by their publishers, as sensitive. I'm not sure this is so true anymore,
+					but it certainly was at the time, and I didn't much like it. I dealt with it the
+					same way I deal with everything. I just tended my own garden, didn't pay much
+					attention, be- haved—I suppose—deviously. (Pp. 324-325) </p>
+				<p> I think of Marianne Moore, living decorously with her mother and her "dark"
+					furniture, her height of social rebellion the courageous ignoring of the need
+					for chaperones at Village literary parties, and wonder how many male writers
+					could have lived such a circumscribed life and survived the image. </p>
+				<p> Not least among perceived social differences is the difficulty woman writers
+					have experienced in being taken "altogether seriously" as legitimate artists.
+					Ezra Pound, writing in the second decade of this century, spoke for many male
+					authors and critics before and since: "I distrust the 'female artist.' . . . Not
+					wildly anti-feminist we are yet to be convinced that any woman ever invented
+					anything in the arts." (Carpenter, A Serious Character, Houghton Mifflin, 1988,
+					p. 239.) Cognate with this view of writing as a male preserve has been the image
+					of women writers as lightweight puffballs, neurotic freaks suffering from what
+					Edna O'Brien calls "a double dose of masochism: the masochisim of the woman and
+					that of the artist" (p. 342), or, if approved of, as <!--<pb n="6"/>--> honorary men.
+					Femininity and excellence, it seemed, were mutually exclusive. Thus Katherine
+					Anne Porter: </p>
+				<p> If there is such a thing as a man's mind and a woman's mind—and I'm sure there
+					is—it isn't what most critics mean when they talk about the two. If I show
+					wisdom, they say I have a masculine mind. If I am silly and irrelevant—and
+					Edmund Wilson says I often am—why then they say I have a typically feminine
+					mind!... But I haven't ever found it unnatural to be a woman. (P. 65) </p>
+				<p> The interviewer responds with a question that is asked, in one form or another,
+					not only of almost every woman included in this book, but of almost every woman
+					writer ever interviewed: "But haven't you found that being a woman presented to
+					you, as an artist, certain special problems?" </p>
+				<p> Katherine Anne Porter’s reply—“I think that’S very true and very right"—is by no
+					means the only one possible. Some, such as Mary McCarthy, are clearly impatient
+					with the question itself. McCarthy accepts some version of the "masculine"
+					versus the "feminine" sensibility, but assigns herself firmly with the former. </p>
+				<p> INTERVIEWER: What do you think of women writers, or do you think the category
+					"woman writer" should not be made? </p>
+				<p> MCCARTHY: Some women writers make it. I mean, there's a certain kind of woman
+					writer who's a capital W, capital W. Virginia Woolf certainly was one, and
+					Katherine Mansfield was one, and Elizabeth Bowen is one. Katherine Anne Porter?
+					Don't think she really is—I mean, her writing is certainly very feminine, but I
+					would say that there wasn't this “WW” business in Katherine Anne Porter. Who
+					else? There's Eudora Welty, who's certainly not a "Woman Winter," though she's
+					become one lately. </p>
+				<p> INTERVIEWER: What is it that happens to make this change? </p>
+				<p> MCCARTHY: I think they become interested in décor. You <!--<pb n="7"/>--> notice the
+					change in Elizabeth Bowen. Her early work is much more masculine. Her later work
+					has much more drapery in it . . . I was going to write a piece at some point
+					about this called "Sense and Sensibility," dividing women writers into these
+					two. I am for the ones who represent sense ... (pp. 189-190) </p>
+				<p> Cynthia Ozick goes much farther; she refuses such dichotomies altogether: </p>
+				<p> INTERVIEWER: you have written about the writer as being genderless and living in
+					the world of "as if" rather than being restrained by her . . . </p>
+				<p> OZICK: Parochial temporary commitments. . . . A writer is someone born with a
+					gift. An athlete can run. A painter can paint. A writer has a facility with
+					words. A good writer can also think. Isn't that enough to define a writer by?
+					(p. 304) </p>
+				<p> Cynthia Ozick also says that the biographers of Wharton and Woolf "missed the
+					writer" in their subjects, and this is probably easier to do with women than
+					with men. There is, still, a sort of trained-dog fascination with the idea of
+					women writers—not that the thing is done well, but that it is done at all, by a
+					creature that is not supposed to possess such capabilities. And so a biographer
+					may well focus on the woman, on gossip and sexual detail and domestic
+					arrangements and political involvement, to the exclusion of the artist. But it
+					is impossible to read any of the interviews in this book and "miss the writer."
+					What these writers have in common is not their diverse responses to the category
+					"woman writer," but their shared passion towards the category "writer." </p>
+				<p> Reading through these interviews, I was struck again and again by the intensity
+					of this passion: the commitment to craft, the informed admiration for the work
+					of other writers from whom they have learned, the insistence on the importance,
+					not of what they themselves have done, but on what has been and can be <!--<pb n="8"
+					/>--> done through the art itself. In no other art, except painting, perhaps, is
+					the relationship of creation to creator so complex and personal and thus so
+					potentially damaging to self-esteem: if you fail, you fail alone. The dancer
+					realize someone else's dance, the writer her own. The relationship of any writer
+					towards a vocation so exacting in its specificity, so demanding of love and
+					energy and time, so resistant to all efforts to define its essence or to
+					categorize its best effects, is bound to be an edgy one, and in these
+					conversations the edginess shows through. Some disclaim ego, remarkable in a
+					collection of such strong, assertive, individual voices; others keep secrets;
+					others fence with their considerable intelligence; others protect themselves
+					with wit. Some recommend objectivity, McCarthy's "sense"; others, like Edna
+					O'Brien, speak of necessary demons. It would be a brave person who would try to
+					stuff these wonderful and various talents into one tidy box labelled “WW,” and
+					expect that acronym to be definitive. Despite the title of this book, the lab I
+					should probably read, “WWAAW," Writers Who Are Also Women. </p>
+				<p> This is not the only collection of such writers that could be made. It is
+					limited in scope by the writers actually interviewed to date by The Paris
+					Review. Thus, although there are writers from the United States, Ireland,
+					England, Denmark, and South Africa, there are none here from, for instance,
+					India or Australia or Canada or Latin America: no Alice Munro, no Anita Desai,
+					no Isabel Allende. As this assemblage is unisexual, so is it uni-colored: thus
+					far no Toni Morrison, no Alice Walker, no Louise Erdrich. Nor are there many
+					writers who are known for an explicit and self-aware examination of the more
+					colonial features of the relationships between men as a group and women: no
+					Marilyn French, no Marge Piercy, no Fay Weldon, no Adrienne Rich, no Judith
+					Rossner. Some of these omissions may be set down to the slowness characteristic
+					of the mills of the gods and the editor of small magazines, a slowness which may
+					account, too, for the retrospective slant of this volume. But looking back over
+					the territory to see what has been done and, especially, said before, is, in the
+					case of writing, part of the territory. </p>
+				<!--<pb n="9"/>-->
+				<p> To write is a solitary and singular act; to do it superbly, as all of these
+					writers have done, is a blessing. Despite everything that gets said about the
+					suffering and panic and horror of being a writer, the final impression left by
+					these remarkable voices is one of thankfulness, of humility in the face of what
+					has been given. From Joyce Carol Oates, one of the youngest writers in this
+					group: </p>
+				<p> I take seriously Flaubert's statement must love one another in our art as the
+					mystics love another in God. By honoring one another's creation we honor
+					something that deeply connected us all, and beyond us. (pp. 383-384) </p>
+				<p> And from Dorothy Parker, one of the oldest: </p>
+				<p> I want so much to write well, though I know I don't . . . But during and at the
+					end of my life, I will adore those who have. (p. 119) </p>
+				<byline> MARGARET ATWOOD, 1988 </byline>
+			</div>
+		</body>
+	</text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GpcB7TjEXbr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GpcB7TjEXbr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:34:12.751Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HrtbRi37rHT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HrtbRi37rHT/selector/textPosition/XHCvZEDaUI0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 366,
+                "end": 380,
+                "refinedBy": {
+                    "id": "/target/HrtbRi37rHT/selector/textQuote/fydUznXVsbN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dorothy Parker",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as",
+                    "suffix": "\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/HrtbRi37rHT/selector/css/bn3tcNYLUMw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GpcB7TjEXbr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/7395211",
+        "type": "crm:E21_Person",
+        "label": "Parker, Dorothy, 1893-1967.",
+        "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KAP3J1eP6Zg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KAP3J1eP6Zg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:34:28.103Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ESGWWKwbB3L",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ESGWWKwbB3L/selector/textPosition/FmxwdDmZZSl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 390,
+                "end": 405,
+                "refinedBy": {
+                    "id": "/target/ESGWWKwbB3L/selector/textQuote/zpb9ZLlA5m8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nadine Gordimer",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand",
+                    "suffix": " Marianne Moore and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/ESGWWKwbB3L/selector/css/nTU2j7oFDsE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KAP3J1eP6Zg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/86692340",
+        "type": "crm:E21_Person",
+        "label": "Gordimer, Nadine, 1923-2014.",
+        "description": "Gordimer, Nadine"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UQ2FTgufWdb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UQ2FTgufWdb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:45:47.281Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/x8AaK0Y7iX2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/x8AaK0Y7iX2/selector/textPosition/EvpLs2ASo8k",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 407,
+                "end": 421,
+                "refinedBy": {
+                    "id": "/target/x8AaK0Y7iX2/selector/textQuote/EBL2aWlFxzJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marianne Moore",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer,",
+                    "suffix": "and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/x8AaK0Y7iX2/selector/css/B7JefAFuDKc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UQ2FTgufWdb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61562401",
+        "type": "crm:E21_Person",
+        "label": "Moore, Marianne, 1887-1972.",
+        "description": "Moore, Marianne, 1887-1972, poétesse"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ZyFR1a83AcC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ZyFR1a83AcC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:45:36.201Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZqQqb8F5Lkz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZqQqb8F5Lkz/selector/textPosition/tWIX0VfJkjB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 426,
+                "end": 438,
+                "refinedBy": {
+                    "id": "/target/ZqQqb8F5Lkz/selector/textQuote/6fr9dIxQeaR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rebecca West",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer, Marianne Moore and",
+                    "suffix": " Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/ZqQqb8F5Lkz/selector/css/LGYMiBNrSly",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZyFR1a83AcC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q236669",
+        "type": "crm:E21_Person",
+        "label": "Rebecca West",
+        "description": "British writer, journalist, literary critic, and feminist (1892-1983)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/32IRDjLnSIX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/32IRDjLnSIX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:45:24.215Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RzSWClL548n",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RzSWClL548n/selector/textPosition/66bJecrYKEh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 497,
+                "end": 518,
+                "refinedBy": {
+                    "id": "/target/RzSWClL548n/selector/textQuote/CZ1wkxXWuff",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine Anne Porter",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and",
+                    "suffix": " over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/RzSWClL548n/selector/css/pxeuZeHHW6Y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/32IRDjLnSIX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/56620604",
+        "type": "crm:E21_Person",
+        "label": "Porter, Katherine Anne, 1890-1980.",
+        "description": "Porter, Katherine Anne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jqMlJVrM8UD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jqMlJVrM8UD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:44:40.874Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/c5ErEwiOwau",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/c5ErEwiOwau/selector/textPosition/XUD5bbzyxmU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1247,
+                "end": 1257,
+                "refinedBy": {
+                    "id": "/target/c5ErEwiOwau/selector/textQuote/WKaPgz8aHPf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Heathcliff",
+                    "prefix": " For many women,",
+                    "suffix": "is a romantic hero; for\n\t\t\t\t\tmany men, he is a posturing oaf they'd like to punch in the nose"
+                }
+            },
+            {
+                "id": "/target/c5ErEwiOwau/selector/css/rhDdgfMouGi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jqMlJVrM8UD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q2499865",
+        "type": "crm:E21_Person",
+        "label": "Heathcliff",
+        "description": "fictional character in the novel Wuthering Heights"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mWZ4SP1BYI2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mWZ4SP1BYI2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:44:26.701Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BxsPSL4idMm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BxsPSL4idMm/selector/textPosition/58izpbkcX06",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1503,
+                "end": 1516,
+                "refinedBy": {
+                    "id": "/target/BxsPSL4idMm/selector/textQuote/AIQ8w0UoqSF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paradise Lost",
+                    "prefix": "",
+                    "suffix": "reads\n\t\t\t\t\tdifferently <!----> when viewed by the daughters of Eve, and with Milton's\n\t\t\t\t\tbrowbeaten secretarial daughters in mind; and so on down through the canon"
+                }
+            },
+            {
+                "id": "/target/BxsPSL4idMm/selector/css/ByuJHBty94v",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mWZ4SP1BYI2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/314808661",
+        "type": "frbroo:F1",
+        "label": "Milton, John, 1608-1674. | Paradise lost",
+        "description": "Milton, John | Izgubljeni raj"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dfEmvwYb4Xl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dfEmvwYb4Xl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:45:14.151Z",
+    "creator": {
+        "id": "https://github.com/juliaflanders",
+        "type": "crm:E21_Person",
+        "name": "Julia Flanders"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UDEL3O7IETQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/juliaflanders/TEI2026_jhf_leaf/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UDEL3O7IETQ/selector/textPosition/x2kJzQohkkx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1594,
+                "end": 1600,
+                "refinedBy": {
+                    "id": "/target/UDEL3O7IETQ/selector/textQuote/e5q4UCSQuVs",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Milton",
+                    "prefix": " Paradise Lost reads\n\t\t\t\t\tdifferently <!----> when viewed by the daughters of Eve, and with",
+                    "suffix": "s\n\t\t\t\t\tbrowbeaten secretarial daughters in mind; and so on down through the canon"
+                }
+            },
+            {
+                "id": "/target/UDEL3O7IETQ/selector/css/vPntG3esBJM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dfEmvwYb4Xl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/17226855",
+        "type": "crm:E21_Person",
+        "label": "Milton, John, 1608-1674.",
+        "description": "Milton, John, poète, 1608-1674"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
+</TEI>
